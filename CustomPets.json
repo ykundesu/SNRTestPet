@@ -1,13 +1,13 @@
 {
-  "pets":[
-  {
-    "author":"よっキング",
-    "name":"てすとくん",
-    "packgae":"よっキングコレクション",
-    "IdleData":{
-      "animate":false,
-      "path":"testpetkun.png"
-    }
-  }
-  ]
+	"pets": [
+		{
+			"author": "よっキング",
+			"name": "てすとくん",
+			"packgae": "よっキングコレクション",
+			"IdleData": {
+				"animate": false,
+				"path": "testpetkun.png"
+			}
+		}
+	]
 }
