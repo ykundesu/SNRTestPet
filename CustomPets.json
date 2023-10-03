@@ -1,0 +1,9 @@
+{
+  "pets":
+  {
+    "IdleData":{
+      "animate":false,
+      "path":"testkun.png"
+    }
+  }
+}
